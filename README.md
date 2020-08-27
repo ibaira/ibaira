@@ -38,5 +38,4 @@ Hi, I'm Ismael Baira, a Machine Learning Engineer / Software Engineer 🚀
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Brand_Visual_Studio_Win_2019.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Icon-Vim.svg"></code>
 
-
-# ![Baira's github stats](https://github-readme-stats.vercel.app/api?username=ibaira&show_icons=true&hide_border=true)
+![Baira's github stats](https://github-readme-stats.vercel.app/api?username=ibaira&show_icons=true&hide_border=true)
