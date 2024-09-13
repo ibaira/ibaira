@@ -11,7 +11,7 @@
 
 Hi, I'm Ismael Baira, a Machine Learning Engineer / Software Engineer 🚀
 
-- 👨🏽‍💻 I’m currently working on state-of-the-art Deep Learning solutions for 3D digital dentistry
+- 👨🏽‍💻 I’m currently working on state-of-the-art Deep Learning solutions for animation
 - 🔮 In my free time I work on data science solutions applied to financial data
 
 Here are some of the tools I enjoy using:
